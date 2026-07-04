@@ -28,7 +28,7 @@ A real-time cricket analytics platform that collects live match data using the *
 ### 📥 Download Project
 
 **Google Drive:**
-https://drive.google.com/drive/folders/1BEsoeFTUvnP52O9Xx4-S18NasGqJ5MyA?usp=sharing
+https://drive.google.com/drive/folders/1maXMzeSTuclRIFpTh-JkiQsCnI3beRNP?usp=sharing
 
 ---
 
